@@ -1,0 +1,24 @@
+/* CREANDO DIAGNOSTICOS AL INGRESO */
+{
+"id" : 189,
+"admisionServicio": {"id" : 3104},
+"diagnosticos" :[
+{
+"id" : null,
+"RelDiagnostico": {"idRelDiagnostico": null, "tipoDxIngEgreso": {"id": 8255, "codigo": "DXING"} },
+"mperSalud" :{"id" : 31396},
+"tipoDiagnostico": {"id": 1214, "codigo": ""}
+"descripcion" : "dengue",
+"usuarioCodifica": {"id": 40975},
+"cie": {"id": 239787}
+},
+{
+"id" : null,
+"RelDiagnostico": {"idRelDiagnostico": null, "tipoDxIngEgreso": {"id": 8255, "codigo": "DXING"} },
+"mperSalud" :{"id" : 31396},
+"tipoDiagnostico": {"id": 1213, "codigo": ""}
+"descripcion" : "dengue leve",
+"usuarioCodifica": {"id": 40975},
+"cie": {"id": 239787}
+}]
+}

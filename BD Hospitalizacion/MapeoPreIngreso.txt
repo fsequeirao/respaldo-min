@@ -1,0 +1,75 @@
+PRE_INGRESO_ID,                --pre ingreso                               
+PRE_ADMISION_ID,               --pre ingreso                  
+PRE_PROCENDENCIA_ID,           --pre ingreso                  
+PRECATPROC_CODIGO,               -- procedencia  
+PRECATPROC_VALOR,                -- procedencia
+PRECATPROC_DESCRIPCION,          -- procedencia 
+PRE_NOMINAL_ID,                --pre ingreso   
+PRENOM_COD_EXPEDIENTE,           -- nominal
+PRENOM_EXPEDIENTE_ID,            -- nominal
+PRENOM_PNOMBRE,                  -- nominal
+PRENOM_SNOMBRE,                  -- nominal
+PRENOM_PAPELLIDO,                -- nominal
+PRENOM_SAPELLIDO,                -- nominal
+PRENOM_NOMB_COMPLETO,            -- nominal 
+PRENOM_TIP_IDENTIFICACION,       -- nominal
+PRENOM_IDENTIF_CODIGO,           -- nominal
+PRENOM_IDENTIF_NOMBRE,           -- nominal 
+PRENOM_IDENTIF_NUMERO,           -- nominal
+PRENOM_SEXO_ID ,                 -- nominal
+PRENOM_SEXO_CODIGO,              -- nominal
+PRENOM_SEXO_VALOR,               -- nominal
+PRENOM_FEC_NACIMIENTO,           -- nominal
+PRENOM_COM_RESIDENCIA_ID,        -- nominal  
+PRENOM_COM_RESIDENCIA_NOMBRE,    -- nominal
+PRENOM_MUNI_RESIDENCIA_ID,       -- nominal
+PRENOM_MUNI_RESIDENCIA_NOMBRE,   -- nominal
+PRENOM_DEP_RESIDENCIA_ID,        -- nominal 
+PRENOM_DEP_RESIDENCIA_NOMBRE,    -- nominal
+PRENOM_DIRECCION_RESIDENCIA,     -- nominal
+PRENOM_TELEFONO_ID,              -- nominal 
+PRENOM_TELEFONO,                 -- nominal
+PRE_MEDICO_ORDENA_INGRESO_ID,  --pre ingreso                 
+PRE_SERV_PROCEDENCIA_ID,       --pre ingreso 
+PRE_SERV_PROCED_CODIGO,          --servicio               
+PRE_SERV_PROCED_NOMBRE,          --servicio             
+PRE_SERV_PROCED_DESCRIPCION,     --servicio             
+PRE_ESPECIALIDAD_DESTINO,      --pre ingreso  
+PREESPDEST_CODIGO,               -- especialidad destino
+PREESPDEST_NOMBRE,               -- especialidad destino
+PREESPDEST_DESCRIPCION,          -- especialidad destino
+PRE_ADMIN_SOLICITA_ING,        --pre ingreso      
+PRE_FEC_SOLICITA_ING,          --pre ingreso
+PRE_HR_SOLICITA_ING,           --pre ingreso
+PRE_USAL_ORIGEN_ID,            --pre ingreso
+PRE_USAL_ORIGEN_NOMBRE,          --unidad salud origen 
+PRE_USAL_ORIGEN_CODIGO,          --unidad salud origen
+PRE_ENTADM_ORIGEN_ID,            --unidad salud origen
+PRE_ENTADM_ORIGEN_NOMBRE,          --entidad admin origen
+PRE_USAL_DEST_ID,              --pre ingreso
+PRE_USAL_DEST_NOMBRE,            --unidad salud destino
+PRE_USAL_DEST_CODIGO,            --unidad salud destino
+PRE_ENTADM_DEST_ID,              --unidad salud destino
+PRE_ENTADM_DEST_NOMBRE,             --entidad admin destino
+PRE_REFERENCIA_ID,             --pre ingreso               
+PRE_ESTADO_PREINGR_ID,         --pre ingreso
+CATESTPRE_CODIGO,                --catalogo estado pre ing 
+CATESTPRE_VALOR,                 --catalogo estado pre ing
+CATESTPRE_DESCRIPCION,           --catalogo estado pre ing
+PRE_COMENTARIOS,               --pre ingreso                  
+PRE_ESTADO_PX_ID,              --pre ingreso    
+CATESTPX_CODIGO,                 --catalogo estado px
+CATESTPX_VALOR,                  --catalogo estado px
+CATESTPX_DESCRIPCION,            --catalogo estado px   
+PRE_ESTADO_REGISTRO_ID,        --pre ingreso 
+CATESTREG_CODIGO,                --catalogo estado registro
+CATESTREG_VALOR,                 --catalogo estado registro
+CATESTREG_DESCRIPCION,           --catalogo estado registro
+PRE_USR_REGISTRO,              --pre ingreso             
+PRE_FEC_REGISTRO,              --pre ingreso
+PRE_USR_MODIFICACION,          --pre ingreso
+PRE_FEC_MODIFICACION,          --pre ingreso
+PRE_USR_PASIVA,                --pre ingreso
+PRE_FEC_PASIVA,                --pre ingreso
+PRE_USR_ELIMINA,               --pre ingreso
+PRE_FEC_ELIMINA                --pre ingreso

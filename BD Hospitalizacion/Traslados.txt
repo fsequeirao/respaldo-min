@@ -1,0 +1,34 @@
+/* CREANDO TRASLADOS CON DIAGNOSTICOS */
+{
+"id": null,
+"ingreso": {"id": 2566, "admisionServicio": {"id": 4545}}
+"servicioOrigen": {"id": 17, "codigo": "1017"},
+"servicioDestino" {"id": 6, "codigo": "1006"},
+"cnfServicioCamasOrigen": {"id": 369},
+"cnfServicioCamasDestino": {"id": 370},
+"medico": {"id": 31396},
+"motivo": "Esto es una simulación de traslado entre servicios",
+"observaciones": "Mi primer traslado exitoso!",
+"fecha": "2022-03-16",
+"hora": "14:22:09",
+"diagnosticos": [
+{
+"id" : null,
+"RelDiagnostico": {"idRelDiagnostico": null, "tipoDxIngEgreso": {"id": 8257, "codigo": "DXTSR"} },
+"mperSalud" :{"id" : 31396},
+"tipoDiagnostico": {"id": 1214, "codigo": ""}
+"descripcion" : "Enfermedad simulada 1",
+"usuarioCodifica": {"id": 40975},
+"cie": {"id": 239787}
+},
+{
+"id" : null,
+"RelDiagnostico": {"idRelDiagnostico": null, "tipoDxIngEgreso": {"id": 8257, "codigo": "DXTSR"} },
+"mperSalud" :{"id" : 31396},
+"tipoDiagnostico": {"id": 1213, "codigo": ""}
+"descripcion" : "Enfermedad simulada 2",
+"usuarioCodifica": {"id": 40975},
+"cie": {"id": 239787}
+}
+]
+}

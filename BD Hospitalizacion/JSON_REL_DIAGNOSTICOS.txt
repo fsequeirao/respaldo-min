@@ -1,0 +1,57 @@
+{
+"id" : 189,
+"admisionServicio": {"id" : 3104},
+"diagnosticos" :[
+{
+"id" : null,
+"RelDiagnostico": {"idRelDiagnostico": null, "tipoDxIngEgreso": {"id": XXX, "codigo": "XXX"} },
+"mperSalud" :{"id" : 31396},
+"tipoDiagnostico": {"id": 1214}
+"descripcion" : "dengue",
+"usuarioCodifica": {"id": 40975},
+"cie": {"id": 239787}
+},
+{
+"id" : null,
+"RelDiagnostico": {"idRelDiagnostico": null, "tipoDxIngEgreso": {"id": XXX, "codigo": "XXX"} },
+"mperSalud" :{"id" : 31396},
+"tipoDiagnostico": {"id": 1213}
+"descripcion" : "dengue leve",
+"usuarioCodifica": {"id": 40975},
+"cie": {"id": 239787}
+}],
+"traslados": [
+{
+"id": null,
+"servicioOrigen": {"id": 17, "codigo": "1017"},
+"servicioDestino" {"id": 6, "codigo": "1006"},
+"cnfServicioCamasOrigen": {"id": 369},
+"cnfServicioCamasDestino": {"id": 370},
+"medico": {"id": 31396},
+"motivo": "Esto es una simulación de traslado entre servicios",
+"observaciones": "Mi primer traslado exitoso!",
+"fecha": "2022-03-16",
+"hora": "14:22:09",
+"diagnosticos": [
+{
+"id" : null,
+"RelDiagnostico": {"idRelDiagnostico": null, "tipoDxIngEgreso": {"id": XXX, "codigo": "XXX"} },
+"mperSalud" :{"id" : 31396},
+"tipoDiagnostico": {"id": 1214}
+"descripcion" : "Enfermedad simulada 1",
+"usuarioCodifica": {"id": 40975},
+"cie": {"id": 239787}
+},
+{
+"id" : null,
+"RelDiagnostico": {"idRelDiagnostico": null, "tipoDxIngEgreso": {"id": XXX, "codigo": "XXX"} },
+"mperSalud" :{"id" : 31396},
+"tipoDiagnostico": {"id": 1213}
+"descripcion" : "Enfermedad simulada 2",
+"usuarioCodifica": {"id": 40975},
+"cie": {"id": 239787}
+}
+]
+}
+]
+}
